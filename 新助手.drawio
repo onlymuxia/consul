@@ -1,1 +1,76 @@
-<mxfile host="www.draw.io" modified="2020-04-02T05:37:49.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" version="12.9.3" etag="xzqV8e4Xaw7-YIwQEY65" type="github"><diagram id="f0ez7-C6AWG4PlUcnZT3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-02T06:41:44.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="dx6f-YBBWal64M1wNijJ" version="12.9.3" type="github" pages="4">
+  <diagram id="f0ez7-C6AWG4PlUcnZT3" name="线索处理">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DivTaPBLH887aalMv3sS-1" value="接收线索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-2" value="厂发线索分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-3" value="自建线索分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-4" value="线索跟进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-5" value="线索撞单处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-6" value="线索认领" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-7" value="线索认领" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DivTaPBLH887aalMv3sS-8" value="线索池" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iXgoWe3_A8TjDLswhFCU" name="到店接待">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="e7aJO2A0lPsmw3YqVbuX-0" />
+        <mxCell id="e7aJO2A0lPsmw3YqVbuX-1" parent="e7aJO2A0lPsmw3YqVbuX-0" />
+        <mxCell id="VqLthcqkR9YzgvElP-pY-0" value="客户信息收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7aJO2A0lPsmw3YqVbuX-1">
+          <mxGeometry x="290" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VqLthcqkR9YzgvElP-pY-1" value="接待详细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7aJO2A0lPsmw3YqVbuX-1">
+          <mxGeometry x="480" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VqLthcqkR9YzgvElP-pY-2" value="邀约试驾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7aJO2A0lPsmw3YqVbuX-1">
+          <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="m2FKepW6P_Q5WLlJB0XP" name="潜客跟进">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0ijfJQ1TX4C6HV2ijRYg-0" />
+        <mxCell id="0ijfJQ1TX4C6HV2ijRYg-1" parent="0ijfJQ1TX4C6HV2ijRYg-0" />
+        <mxCell id="0ijfJQ1TX4C6HV2ijRYg-2" value="潜客分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ijfJQ1TX4C6HV2ijRYg-1">
+          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ijfJQ1TX4C6HV2ijRYg-3" value="潜客跟进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0ijfJQ1TX4C6HV2ijRYg-1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-bSdfBo7GtqkHfwXiw7m" name="线上沟通">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OOuKmmkyoSKSzb8Wh_ea-0" />
+        <mxCell id="OOuKmmkyoSKSzb8Wh_ea-1" parent="OOuKmmkyoSKSzb8Wh_ea-0" />
+        <mxCell id="OOuKmmkyoSKSzb8Wh_ea-2" value="沟通记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OOuKmmkyoSKSzb8Wh_ea-1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
